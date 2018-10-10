@@ -1,0 +1,14 @@
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\bin\Debug\netcoreapp2.1\NetCoreIntroduction.deps.json
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\bin\Debug\netcoreapp2.1\NetCoreIntroduction.runtimeconfig.json
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\bin\Debug\netcoreapp2.1\NetCoreIntroduction.runtimeconfig.dev.json
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\bin\Debug\netcoreapp2.1\NetCoreIntroduction.dll
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\bin\Debug\netcoreapp2.1\NetCoreIntroduction.pdb
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.csprojAssemblyReference.cache
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.RazorAssemblyInfo.cache
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.RazorAssemblyInfo.cs
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.AssemblyInfoInputs.cache
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.AssemblyInfo.cs
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.RazorTargetAssemblyInfo.cache
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.dll
+C:\Users\Pagotto\source\repos\NetCoreIntroduction\NetCoreIntroduction\obj\Debug\netcoreapp2.1\NetCoreIntroduction.pdb
